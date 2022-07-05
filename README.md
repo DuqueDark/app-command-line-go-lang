@@ -2,6 +2,8 @@
  
 Esse repositorio destinace a uma aplicação final em linha de commando, feito em Go Lang.
 
+Exemplo de exec: .\pp_command_line ip -host amazom.com.br
+
 ## Executando aplicação
 ### Executando o comando 'go run . < global options > variavel < args > ' executara a aplicação.
 
