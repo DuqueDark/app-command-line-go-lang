@@ -17,3 +17,7 @@ Exemplo de exec: .\pp_command_line ip -host amazom.com.br
 
 ### Build
 Para buidar a aplicação somente precis executar o commando 'go build' e pronto app finalizado.
+
+<br>
+<br>
+Cretidos ao criador: Otávio Augusto Gallego
